@@ -2,4 +2,4 @@ In this project, our aim is to build a modern tip calculator. The project's prim
 
 
 
-this is a challenge #1day1project
+challenge #1day1project
