@@ -1,5 +1,5 @@
 today on 24 sep 23 i faced to many issue due lack of css skills . 
-and lack of understanding javascript 
+and lack of understanding javascript  concept.
 
 
 todays project was agfe caulator 
