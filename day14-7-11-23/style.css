@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    
+}
+
+.logo {
+    width: 50px;
+    height: 12px;
+    background: #fff;
+    border-radius: 100px;
+    margin: 10px;
+    float: left;
+    padding:10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+
+.toplist  {
+    float: right;
+}
+
+a {
+    color: black;
+    text-decoration: solid;
+}
+
+.toplist li {
+    display: block;
+    margin: 0 25px;
+    padding: 0px ;
+}
+
+.toplist {
+    display: flex;
+    padding: 03px;
+    border-radius: 15px;
+    background: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow:0 0 100px rgba(0, 0, 0, 0.9); ;
+    font-weight: bold;
+}
+
+.toplist li:hover a {
+    color: red;
+
+}
